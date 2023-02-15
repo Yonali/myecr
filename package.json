@@ -276,7 +276,7 @@
     "yargs-parser": "^20.2.9"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node ECR REST Bridge.exe"
   },
   "author": "",
   "license": "ISC"
