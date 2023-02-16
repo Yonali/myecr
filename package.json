@@ -276,7 +276,7 @@
     "yargs-parser": "^20.2.9"
   },
   "scripts": {
-    "start": "nodejs ECR.exe"
+    "start": "ECR.exe"
     
   },
   "author": "",
