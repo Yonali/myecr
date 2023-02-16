@@ -276,7 +276,8 @@
     "yargs-parser": "^20.2.9"
   },
   "scripts": {
-    "start": "C:/Program Files/nodejs/ECR.exe"
+    "start": "node server.js"
+    
   },
   "author": "",
   "license": "ISC"
